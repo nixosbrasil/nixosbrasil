@@ -1,5 +1,7 @@
 # NixOS Brasil
 
+![](./arte/verde-horizontal.png)
+
 ## Comunidade
 
 - [Telegram](https://t.me/nixosbr)
