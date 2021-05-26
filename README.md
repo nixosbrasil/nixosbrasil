@@ -4,7 +4,6 @@
 
 ## Comunidade
 
-- [Telegram](https://t.me/nixosbr)
 - [Matrix](https://matrix.to/#/!NvobJHtwbYxkhqfmXF:matrix.org)
 
 ## Configurações dos membros
@@ -16,8 +15,6 @@
 - @iuryfukuda https://github.com/zbioe/dotnix
 
 - @mrioqueiroz https://github.com/mrioqueiroz/dotfiles
-
-- @lucazzdev https://github.com/luc4sd3v/nix-i3wm/
 
 - @squiter https://github.com/squiter/nix-config
 
@@ -38,7 +35,5 @@
 - @jnetod https://gitlab.com/snippets/1879164
 
 - @jnetod https://gitlab.com/snippets/1880962
-
-- @KlausDevWalker https://github.com/KlausDevWalker/nixos-home-manager
 
 - @ratsclub https://github.com/ratsclub/dotfiles
