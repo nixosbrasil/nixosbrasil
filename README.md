@@ -20,7 +20,7 @@
 - [@amnesictwo](https://gitlab.com/amnesictwo/mydotfiles.git)
 - [@ericdallo](https://github.com/ericdallo/dotfiles)
 - [@iagocq](https://github.com/iagocq/nixos-config)
-- [@jneto](https://gitlab.com/jjjnnn)
+- [@jnetod](https://gitlab.com/jjjnnn)
   - [home.nix](https://gitlab.com/-/snippets/1879164)
   - [configuration.nix](https://gitlab.com/-/snippets/1880962)
 - [@lucasew](http://github.com/lucasew/nixcfg)
