@@ -49,6 +49,9 @@
 - [lucasew][]/[borderless-browser.nix](https://github.com/lucasew/borderless-browser.nix):
   Rode com facilidade janelas do Chrome/Chromium sem bordas usando [Nix(OS)].
 
+- [lucasew][]/[path.nix](https://github.com/lucasew/path.nix):
+  Utilitário simples para puxar os inputs de um flake e gerar a variável de ambiente `NIX_PATH` correspondente [Nix(OS)].
+
 [amnesictwo]: https://gitlab.com/amnesictwo
 [ericdallo]: https://github.com/ericdallo
 [iagocq]: https://github.com/iagocq
