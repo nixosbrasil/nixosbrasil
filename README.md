@@ -51,6 +51,9 @@
 
 - [lucasew][]/[path.nix](https://github.com/lucasew/path.nix):
   Utilitário simples para puxar os inputs de um flake e gerar a variável de ambiente `NIX_PATH` correspondente [Nix(OS)].
+  
+- [thiagokokada]/[nix-alien](https://github.com/thiagokokada/nix-alien):
+  Utilitário para executar binários não-nix dentro do Nix/NixOS, inspecionando o bin criando um `FHSUserEnv` ou usando um `mkShell` com as variáveis do [`nix-ld`](https://github.com/Mic92/nix-ld) pré-setadas.
 
 [amnesictwo]: https://gitlab.com/amnesictwo
 [ericdallo]: https://github.com/ericdallo
