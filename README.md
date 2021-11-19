@@ -18,6 +18,7 @@
 ## Configurações dos membros
 
 - [@amnesictwo](https://gitlab.com/amnesictwo/mydotfiles.git)
+- [@arcticlimer](https://github.com/arcticlimer/dotfiles)
 - [@ericdallo](https://github.com/ericdallo/dotfiles)
 - [@iagocq](https://github.com/iagocq/nixos-config)
 - [@jnetod](https://gitlab.com/jjjnnn)
