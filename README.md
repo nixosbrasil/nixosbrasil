@@ -12,7 +12,7 @@
 
 ## Comunidade
 
-- [Matrix](https://matrix.to/#/!NvobJHtwbYxkhqfmXF:matrix.org)
+- [Matrix](https://matrix.to/#/#pt:nixos.org)
 - [Telegram](https://t.me/nixosbrasil)
 
 ## Configurações dos membros
