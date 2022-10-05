@@ -44,9 +44,6 @@
   [Home Manager][] que pode ser importado globalmente para utilizar o seu tema
   por toda sua configuração.
 
-- [ratsclub][]/[nixberry](https://github.com/ratsclub/nixberry): Gere uma imagem
-  para Raspberry Pi 3 utilizando [NixOS] e GitHub Actions.
-
 - [lucasew][]/[borderless-browser.nix](https://github.com/lucasew/borderless-browser.nix):
   Rode com facilidade janelas do Chrome/Chromium sem bordas usando [Nix(OS)].
 
