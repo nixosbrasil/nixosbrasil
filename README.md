@@ -53,9 +53,13 @@
 - [thiagokokada]/[nix-alien](https://github.com/thiagokokada/nix-alien):
   Utilitário para executar binários não-nix dentro do Nix/NixOS, inspecionando o bin criando um `FHSUserEnv` ou usando um `mkShell` com as variáveis do [`nix-ld`](https://github.com/Mic92/nix-ld) pré-setadas.
 
+- [iedame]/[nixos-and-flakes-book-pt](https://github.com/iedame/nixos-and-flakes-book-pt):
+  Versão em Português do `Livro NixOS & Flakes`: Quer saber mais sobre NixOS e Flakes em detalhes? Procurando por um tutorial para iniciantes? Então você veio ao lugar certo! 
+
 [amnesictwo]: https://gitlab.com/amnesictwo
 [ericdallo]: https://github.com/ericdallo
 [iagocq]: https://github.com/iagocq
+[iedame]: https://github.com/iedame
 [jnetod]: https://gitlab.com/jjjnnn
 [lucasew]: https://github.com/lucasew
 [mdsp9070]: https://github.com/Mdsp9070
